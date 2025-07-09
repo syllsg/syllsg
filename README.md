@@ -7,6 +7,6 @@ I'm passionate about IA and analyzing data
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Sylvia_Lehmann-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvia-lehmann/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Sylvia_Lehmann-blue)](https://www.linkedin.com/in/sylvia-lehmann/)
 
 </div>
